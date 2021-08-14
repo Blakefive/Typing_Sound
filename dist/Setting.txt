@@ -1,0 +1,12 @@
+enter=cherry_blue.wav
+shift=cherry_brown.wav
+ctrl=cherry_brown.wav
+alt=cherry_brown.wav
+space=cherry_brown.wav
+tab=cherry_brown.wav
+delete=cherry_brown.wav
+backspace=cherry_brown.wav
+win/cmd=cherry_brown.wav
+caps_lock=cherry_brown.wav
+esc=cherry_brown.wav
+key=cherry_brown.wav
